@@ -24,15 +24,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Breve descrição do seu projeto
-
+Fiz a monalisa falar
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+heygen pelo site do canvas
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-
+Peguei a foto da monalisa, coloquei no app, gravei minha voz pelo pc e depois fiz upload no programa. Pronto a monalisa falando como foi dificil o desafio
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+
+https://github.com/Juliatchuba/lab-natty-or-not/assets/168127726/ec54381d-81cc-4987-ad71-80f0104f24b8
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
